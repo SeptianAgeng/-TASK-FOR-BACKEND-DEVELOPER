@@ -1,0 +1,7 @@
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\bin\Debug\Telkom2.exe.config
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\bin\Debug\Telkom2.exe
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\bin\Debug\Telkom2.pdb
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\obj\Debug\Telkom2.csprojAssemblyReference.cache
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\obj\Debug\Telkom2.csproj.CoreCompileInputs.cache
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\obj\Debug\Telkom2.exe
+C:\Users\septi\Desktop\WFH\Telkom2\Telkom2\obj\Debug\Telkom2.pdb
